@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hola! Mi nombre es Marcos 👋
+### const tomas0011 = {
+#  Skills: {
+#      BackEnd: [
+#          {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'Passport']}
+#        ],
+#      FrontEnd: [
+#          {JavaScript: ['React', 'Redux']}
+#        ]
+#    },
+#  Proyects: [
+#      {PokeApp: ['Redux', 'NodeJs', 'Express', 'Sequelize']},
+#      {TECHO Hiring Web: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Typescript']}
+#    ] 
+# }
+#
 
 <!--
 **MarcosRios2000/MarcosRios2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
