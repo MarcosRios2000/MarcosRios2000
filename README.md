@@ -1,31 +1,63 @@
-### Hola! Mi nombre es Marcos 👋
- const MarcosRios2000 = {
+![Port](https://user-images.githubusercontent.com/58223692/95631179-9bf7af80-0a59-11eb-8120-a4a064c956b7.jpg)
+<h1 align="center"> Hola, Mi nombre es Marcos! 👋 :computer: </h1>
+
+```js
+const MarcosRios2000 = {
   Skills: {
-     BackEnd: [
-          {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'Passport']}
+      BackEnd: [
+          {JavaScript: ['NodeJs', 'Express', 'Sequelize']},
+          {Typescript: ['NodeTs', 'Express']}
         ],
       FrontEnd: [
-          {JavaScript: ['React', 'Redux']}
-       ]
+          {JavaScript: ['React', 'Redux', 'Formik']},
+          {Typescript: ['React', 'Redux']}
+        ]
     },
   Proyects: [
       {PokeApp: ['Redux', 'NodeJs', 'Express', 'Sequelize']},
       {TECHO Hiring Web: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Typescript']}
-   ] 
- }
+    ],
+  FutureTecnologies: ['PHP', 'Python', 'Java', 'Go', 'Ruby'],
+  Aspirations: ['AI', 'CloudComputing', 'IOT', 'MachineLearning']
+}
+```
+<div>
+  <p>
+    Me encanta desafiarme a mi mismo, soy un joven con mucho entusiasmo y ganas de aprender y progresar.
+    Este es el primero de mis años que dedicaré a mi formacion profesional en el mundo del desarrollo web
+  </p>
+  <strong> Esto es un poco de lo que estuve haciendo: </strong>
+</div>
 
 
-<!--
-**MarcosRios2000/MarcosRios2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> TECHO </h2>
 
-Here are some ideas to get you started:
+![Port](https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_de_la_Organizaci%C3%B3n_TECHO.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h4> Desarrollada con: </h4>
+<ul>
+  <h5>|--| FrontEnd |--|</h5>
+    <li>Typescript</li>
+    <li>React</li>
+    <li>Redux</li>
+    <li>Material UI</li>
+    <li>MaterialTable</li>
+    <li>Formik</li>
+</ul>
+
+<hr/>
+
+<h2> Me podes contactar en: </h2>
+
+<p>
+    <a href="https://www.linkedin.com/in/marcos--rios/">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
+    </a>
+    <a href="https://github.com/MarcosRios2000">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="20" width="20" />
+    </a>
+<p/>
+
+<hr/>
+
