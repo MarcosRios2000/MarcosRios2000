@@ -32,7 +32,7 @@ const MarcosRios2000 = {
 
 <h2> TECHO </h2>
 
-![Port](https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_de_la_Organizaci%C3%B3n_TECHO.jpg)
+![Port](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Logo_de_la_Organizaci%C3%B3n_TECHO.jpg/480px-Logo_de_la_Organizaci%C3%B3n_TECHO.jpg)
 
 
 <h4> Desarrollada con: </h4>
