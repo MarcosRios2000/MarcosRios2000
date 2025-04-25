@@ -1,63 +1,63 @@
-![Port](https://user-images.githubusercontent.com/58223692/95631179-9bf7af80-0a59-11eb-8120-a4a064c956b7.jpg)
-<h1 align="center"> Hola, Mi nombre es Marcos! 👋 :computer: </h1>
+# 👋 Hey, I'm Marcos Rios
 
-```js
-const MarcosRios2000 = {
-  Skills: {
-      BackEnd: [
-          {JavaScript: ['NodeJs', 'Express', 'Sequelize']},
-          {Typescript: ['NodeTs', 'Express']}
-        ],
-      FrontEnd: [
-          {JavaScript: ['React', 'Redux', 'Formik']},
-          {Typescript: ['React', 'Redux']}
-        ]
-    },
-  Proyects: [
-      {PokeApp: ['Redux', 'NodeJs', 'Express', 'Sequelize']},
-      {TECHO Hiring Web: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Typescript']}
-    ],
-  FutureTecnologies: ['PHP', 'Python', 'Java', 'Go', 'Ruby'],
-  Aspirations: ['AI', 'CloudComputing', 'IOT', 'MachineLearning']
-}
-```
-<div>
-  <p>
-    Me encanta desafiarme a mi mismo, soy un joven con mucho entusiasmo y ganas de aprender y progresar.
-    Este es el primero de mis años que dedicaré a mi formacion profesional en el mundo del desarrollo web
-  </p>
-  <strong> Esto es un poco de lo que estuve haciendo: </strong>
-</div>
+I'm a software developer who started exploring web and game development in 2019. Since then, I've worked on freelance projects and led fullstack efforts in real-world environments.
 
+---
 
-<h2> TECHO </h2>
+## 🚀 About Me
 
-![Port](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Logo_de_la_Organizaci%C3%B3n_TECHO.jpg/480px-Logo_de_la_Organizaci%C3%B3n_TECHO.jpg)
+- 🧠 Bootcamp-trained with a Henry Hero distinction and collaboration with NGOs like TECHO.
+- 🛠️ Worked with React, Redux, Express, Sequelize, PostgreSQL, Vue, and React Native.
+- 💪 At **Aythen**, a Spanish company, I led critical frontend architecture for a full-fledged website builder. 
+    - Migrated a React + Vite codebase to Next.js.
+    - Designed and implemented recursive Redux logic to manage a virtual DOM tree.
+    - Built drag-and-drop and resize features from scratch (no libraries).
+    - Created advanced interactions such as element reparenting, optimizing selection, and state tracking in a read-only-friendly environment.
+    - Contributed to the development of a **Figma plugin** that parsed design elements and converted them to structured data, solving challenges like coordinate rotation discrepancies using applied math and custom logic.
+    - Led the development of the **code translator**, a tool that converted the parsed design data into fully functional React, Vue, React Native, and HTML codebases.
 
+---
 
-<h4> Desarrollada con: </h4>
-<ul>
-  <h5>|--| FrontEnd |--|</h5>
-    <li>Typescript</li>
-    <li>React</li>
-    <li>Redux</li>
-    <li>Material UI</li>
-    <li>MaterialTable</li>
-    <li>Formik</li>
-</ul>
+## 🧠 Applied Logic & Systems Thinking
 
-<hr/>
+Throughout my work, especially at Aythen, I had to apply deep logical thinking and mathematical problem solving:
 
-<h2> Me podes contactar en: </h2>
+- 🧮 Developed recursive data manipulation to represent and traverse nested DOM structures as trees.
+- 📐 Solved layout transformations between Figma and React rendering contexts using trigonometry and coordinate system analysis.
+- 🧰 Created utility functions from scratch to handle complex layout problems such as element rotation, centering, and positioning within draggable UI environments.
 
-<p>
-    <a href="https://www.linkedin.com/in/marcos--rios/">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
-    </a>
-    <a href="https://github.com/MarcosRios2000">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="20" width="20" />
-    </a>
-<p/>
+These challenges refined not only my coding ability but also my understanding of data structures, applied mathematics, and systems design.
 
-<hr/>
+---
 
+## 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?logo=react)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js)
+
+---
+
+## 🌟 Highlight Projects
+
+- `up-task` → fullstack task manager with auth verification and collaboration (MERN + Typescript).
+- `qr-access` → access system with QR codes for physical events (React Native + Backend).
+- `design-to-code` → code generation tool from design JSON, used internally and integrated with Figma plugin and multi-framework translators.
+
+---
+
+## 📊 GitHub Stats
+
+![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosrios&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosrios&layout=compact&theme=tokyonight)
+
+---
+
+## 📢 Contact
+
+- 📧 Email: marcosrioos@gmail.com
+- 🚀 LinkedIn: https://www.linkedin.com/in/marcos--rios/
