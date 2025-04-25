@@ -50,13 +50,6 @@ These challenges refined not only my coding ability but also my understanding of
 
 ---
 
-## 📊 GitHub Stats
-
-![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosrios&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosrios&layout=compact&theme=tokyonight)
-
----
-
 ## 📢 Contact
 
 - 📧 Email: marcosrioos@gmail.com
